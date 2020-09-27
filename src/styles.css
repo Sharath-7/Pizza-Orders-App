@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+* {
+  font-family: courier,arial,helvetica,sans-serif;
+}
+
+label {
+  color: #888;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif !important;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #549be21f !important;
+}

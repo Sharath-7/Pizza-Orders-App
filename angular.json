@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PizzaOrdersApp"
+    }
+  },
+  "defaultProject": "PizzaOrdersApp",
+  "cli": {
+    "analytics": false
+  }
 }
