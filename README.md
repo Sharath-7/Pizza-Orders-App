@@ -1,3 +1,6 @@
+#Error Case: If there is @angular-devkit/build-angular/package.json Error
+Run npm install --save-dev @angular-devkit/build-angular
+
 # PizzaOrdersApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
