@@ -1,0 +1,53 @@
+
+
+.status-css{
+  color: #fff;
+  padding: .2em .6em .3em;
+  border-radius: 4px;
+  font-size: smaller;
+}
+
+.status-order-received{
+  background-color: #3da2f9e6;
+  border-color: #428bca;
+}
+
+.status-order-preparing{
+  background-color: #e6ae5d;
+  border-color: #f0ad4e;
+}
+
+.status-order-ready{
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+}
+
+.custom-btn-css{
+  border-radius: 6px;
+    background-color: #22b922c7;
+    box-shadow: 1px 1px 1px 1px #88ce88d9;
+    border-color: #00800059;
+}
+
+.custom-btn-css:focus {
+  outline: 5px auto #00800059 !important;
+}
+
+.tr-class{
+  cursor: pointer;
+}
+
+.table-css{
+  box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+
+.thead-primary{
+  background-color: #1a76d2eb !important;
+  color: white;
+}
+
+.orderItems-table{
+  width: 96%;
+  margin-left: 2%;
+}
+

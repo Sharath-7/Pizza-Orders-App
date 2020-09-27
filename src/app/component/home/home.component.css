@@ -1,0 +1,34 @@
+#mainDivId {
+  margin: 1px auto 4px !important;
+  }
+#homeImg{
+  width: 100%;
+  margin-top: -3.8%;
+}
+
+#homeImg:focus {
+  outline: white !important;
+}
+
+:host ::ng-deep app#mainDivId {
+  margin: 1px auto 4px !important;
+}
+
+/* Style the button and place it in the bottom right of the image */
+#homePage > .btn{
+  position: absolute;
+  top: 85%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #f31212;
+  color: white;
+  font-size: 1;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  right: 1%;
+}
+#homePage > .btn:hover {
+  background-color: #d00606;
+}
